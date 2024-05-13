@@ -1,5 +1,3 @@
------
-
 <div>
 <img align="center" alt="Header" src="https://github.com/GuilhermeQuites/GuilhermeQuites/blob/main/img/header.png?raw=true"/>
 </div>
