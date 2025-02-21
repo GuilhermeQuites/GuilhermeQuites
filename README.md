@@ -2,7 +2,7 @@
 <img align="center" alt="Header" src="https://github.com/GuilhermeQuites/GuilhermeQuites/blob/main/img/header.png?raw=true"/>
 </div>
 
-### Oi pessoal 👋, me chamo Guilherme Gomes, tenho 19 anos 😎, sou programador júnior na área de desenvolvimento web, atualmente cursando Ciências da Computação no <a href="https://newtonpaiva.br/">Centro Universitário Newton Paiva</a>🚀.
+### Oi pessoal 👋, me chamo Guilherme Gomes, tenho 21 anos 😎, sou programador júnior na área de desenvolvimento web, atualmente cursando Ciências da Computação no <a href="https://newtonpaiva.br/">Centro Universitário Newton Paiva</a>🚀.
 
 
 
